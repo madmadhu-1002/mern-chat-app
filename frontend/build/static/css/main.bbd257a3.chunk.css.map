@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/styles.css"],"names":[],"mappings":"AAAA,UACE,oBAAa,CAAb,YAAa,CACb,6BAAsB,CAAtB,qBAAsB,CACtB,iBAAkB,CAClB,oBACF","file":"main.bbd257a3.chunk.css","sourcesContent":[".messages {\n  display: flex;\n  flex-direction: column;\n  overflow-y: scroll;\n  scrollbar-width: none;\n}\n"]}
